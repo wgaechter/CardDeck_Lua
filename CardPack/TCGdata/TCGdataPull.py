@@ -9,7 +9,7 @@ import json
 
 from pokemontcgsdk import RestClient
 
-RestClient.configure('c314fa11-dd78-4e8e-a886-354a04add315')
+
 
 card = Card.find('xy1-1')
 
